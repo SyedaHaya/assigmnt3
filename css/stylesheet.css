@@ -27,6 +27,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,9,121,1) 35%, rgba
 }
 .card{
 	margin-top: 100px;
+	height: 600px;
+	
+}
+.card-text {padding-top: 100px;
+
 }
 
 .portfolio{
@@ -34,4 +39,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,9,121,1) 35%, rgba
 }
 .col{
 	margin-top: 30px;
+}
+.pricing{
+	margin-top: 150px;
+}
+footer{
+	background-color: aquamarine;
+	height: 290px;
 }
