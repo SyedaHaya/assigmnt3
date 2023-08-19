@@ -1,7 +1,12 @@
 body{
 	font-family: 'Poppins', sans-serif;
-	background-color: lightcyan;
+	
+	
 
+}
+body .insta{
+
+	
 }
 .navbar{
 	background: rgb(2,0,36);
@@ -17,11 +22,9 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,9,121,1) 35%, rgba
 	background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,9,121,1) 35%, rgba(0,212,255,1) 100%);
 	height: 600px;
-	padding-top: 50px;
+	
+	
 }
-	
-
-	
 
 	
 
@@ -57,4 +60,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,9,121,1) 35%, rgba
 	height: 100px;
 	padding-top: 10px;
 }
-
+.build{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height: 700px;
+}
